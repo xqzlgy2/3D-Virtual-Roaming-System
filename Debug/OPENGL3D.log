@@ -1,0 +1,143 @@
+﻿  vector.cpp
+  skybox.cpp
+g:\opengl3d\opengl3d\skybox.cpp(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+g:\opengl3d\opengl3d\skybox.cpp(26): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  main.cpp
+g:\opengl3d\opengl3d\particle.h(19): warning C4305: “=”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\particle.h(20): warning C4305: “=”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\particle.h(22): warning C4305: “=”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\particle.h(23): warning C4305: “=”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\particle.h(24): warning C4305: “=”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\particle.h(25): warning C4305: “=”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\particle.h(26): warning C4305: “=”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\particle.h(43): warning C4244: “=”: 从“unsigned int”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\particle.h(45): warning C4244: “=”: 从“unsigned int”转换到“GLfloat”，可能丢失数据
+  House.cpp
+g:\opengl3d\opengl3d\material.h(9): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(10): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(10): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(11): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(11): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(15): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(15): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(16): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(16): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(17): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(17): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(18): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(18): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(21): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(21): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(22): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(22): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(23): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(33): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(33): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(34): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(34): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(35): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(35): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(36): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(36): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(39): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(39): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(40): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(40): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(41): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(41): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(42): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(42): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(45): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(45): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(46): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(46): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(47): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(48): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(48): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(51): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(51): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(52): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(52): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(53): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(53): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(54): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(54): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(57): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(57): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(58): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(58): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(59): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(59): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(60): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(60): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(63): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(64): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(64): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(65): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(65): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(66): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(66): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(70): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(70): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(71): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(71): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(72): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(72): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(75): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(75): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(76): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(76): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\material.h(77): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+g:\opengl3d\opengl3d\material.h(77): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\house.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+g:\opengl3d\opengl3d\house.cpp(182): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+g:\opengl3d\opengl3d\house.cpp(186): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(194): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(201): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(389): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(392): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(394): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(397): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(399): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(402): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(404): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(413): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(433): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(454): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(475): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(555): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(556): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(557): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(558): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(560): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(561): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(562): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(563): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(565): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(566): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(567): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(568): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(570): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(571): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(572): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(573): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(581): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(582): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(583): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(584): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(617): warning C4244: “参数”: 从“const unsigned int”转换到“GLfloat”，可能丢失数据
+g:\opengl3d\opengl3d\house.cpp(620): warning C4244: “参数”: 从“const unsigned int”转换到“GLfloat”，可能丢失数据
+  CBMPLoader.cpp
+g:\opengl3d\opengl3d\cbmploader.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  camera.cpp
+  正在生成代码...
+  OPENGL3D.vcxproj -> G:\OPENGL3D\Debug\OPENGL3D.exe
+  OPENGL3D.vcxproj -> G:\OPENGL3D\Debug\OPENGL3D.pdb (Full PDB)

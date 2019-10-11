@@ -1,0 +1,87 @@
+﻿生成启动时间为 2018/11/19 19:54:35。
+     1>项目“C:\Users\xqzlgy\documents\visual studio 2010\Projects\OPENGL3D\OPENGL3D\OPENGL3D.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\xqzlgy\documents\visual studio 2010\Projects\OPENGL3D\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\OPENGL3D.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt camera.cpp CBMPLoader.cpp House.cpp main.cpp skybox.cpp vector.cpp
+         camera.cpp
+         CBMPLoader.cpp
+     1>CBMPLoader.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+         House.cpp
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(9): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(10): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(10): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(10): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(10): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(11): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(11): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(11): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(11): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(15): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(15): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(15): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(16): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(16): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(16): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(17): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(17): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(17): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(18): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(21): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(21): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(21): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(22): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(22): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(22): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\users\xqzlgy\documents\visual studio 2010\projects\opengl3d\opengl3d\material.h(23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>House.cpp(37): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>House.cpp(38): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+     1>House.cpp(153): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>House.cpp(165): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+     1>House.cpp(165): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+     1>House.cpp(172): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+     1>House.cpp(172): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+     1>House.cpp(237): warning C4244: “参数”: 从“const unsigned int”转换到“GLfloat”，可能丢失数据
+     1>House.cpp(240): warning C4244: “参数”: 从“const unsigned int”转换到“GLfloat”，可能丢失数据
+         main.cpp
+         skybox.cpp
+     1>skybox.cpp(24): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>skybox.cpp(25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+         vector.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xqzlgy\documents\visual studio 2010\Projects\OPENGL3D\Release\OPENGL3D.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\OPENGL3D.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\xqzlgy\documents\visual studio 2010\Projects\OPENGL3D\Release\OPENGL3D.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xqzlgy\documents\visual studio 2010\Projects\OPENGL3D\Release\OPENGL3D.lib" /MACHINE:X86 Release\camera.obj
+         Release\CBMPLoader.obj
+         Release\House.obj
+         Release\main.obj
+         Release\skybox.obj
+         Release\vector.obj
+     1>House.obj : error LNK2001: 无法解析的外部符号 __imp__glutSolidTeapot@8
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp____glutCreateWindowWithExit@8
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp____glutInitWithExit@12
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutInitWindowPosition@8
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutMotionFunc@4
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutSwapBuffers@0
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutReshapeFunc@4
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutInitDisplayMode@4
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutKeyboardFunc@4
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutMainLoop@0
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutInitWindowSize@8
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutPostRedisplay@0
+     1>main.obj : error LNK2001: 无法解析的外部符号 __imp__glutDisplayFunc@4
+     1>C:\Users\xqzlgy\documents\visual studio 2010\Projects\OPENGL3D\Release\OPENGL3D.exe : fatal error LNK1120: 13 个无法解析的外部命令
+     1>已完成生成项目“C:\Users\xqzlgy\documents\visual studio 2010\Projects\OPENGL3D\OPENGL3D\OPENGL3D.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.70
